@@ -39,4 +39,4 @@ The Chrome extensions that I use.
 
 [捕捉网页截图 - FireShot的](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg): 捕捉网页截图，编辑并将它们保存为PDF，JPEG，GIF，PNG或BMP；上传，打印，在Photoshop中打开，复制到剪贴板或电子邮件
 
-这些都是我平时在用的Chrome插件，*插件虽好，可不要贪杯哟*
+这些都是我平时在用的Chrome插件，**插件虽好，可不要贪杯哟**
