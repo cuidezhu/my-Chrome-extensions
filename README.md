@@ -43,6 +43,3 @@ The Chrome extensions that I use.
 [Simple WebSocket Client](https://chrome.google.com/webstore/detail/simple-websocket-client/pfdhoblngboilpfeibdedpjgfnlcodoo): Construct custom Web Socket requests and handle responses to directly test your Web Socket services.
 
 这些都是我平时在用的Chrome插件，*插件虽好，可不要贪杯哟*
-=======
-这些都是我平时在用的Chrome插件，**插件虽好，可不要贪杯哟**
->>>>>>> 9955a705466669556260d35e388ad56dab078c5d
